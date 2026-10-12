@@ -1,0 +1,6 @@
+# Add your profile photo here
+#
+# 1. Save your image as profile.jpg (recommended: square, at least 400×400px)
+# 2. Or use profile.png and update photoUrl in src/data/portfolio.ts
+#
+# Supported formats: .jpg, .jpeg, .png, .webp
